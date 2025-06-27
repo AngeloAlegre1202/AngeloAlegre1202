@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Angelo Alegre
 
-<!--
-**AngeloAlegre1202/AngeloAlegre1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  I earned my Bacher of Science in Business Administration Major in Financial Management from La Consolacion University Philippines, Graduating **Summa Cum laude**
 
-Here are some ideas to get you started:
+     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I specialize in blending **finance** and **technology**.  
+Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**
+
+## 🚀 Projects I'm proud of
+- 🔎 **Bike Sales Excel Dashboard** – Cleaned and analyzed sales data using Excel formulas and pivot tables to build a print-ready dashboard for business insights.
+- 🌐 **Python Web Scraping** – Extracted and transformed financial data from Wikipedia using BeautifulSoup and Pandas.
+- 📊 **Power BI Survey Breakdown** – Visualized global data professionals’ trends and built interactive dashboards using Power Query and DAX.
+- 🏡 **Tableau Airbnb Listing Dashboard** – Analyzed pricing trends and created a user-friendly dashboard by zip code and bedroom count.
+- 💾 **SQL Data Cleaning Project** – Cleaned and formatted structured datasets using SQL to prepare data for visualization and analysis.
+
+## 🧠 What I'm Learning
+- Financal Modeling 
+- Data storytelling techniques  
+- Scalable dashboards and reporting automation  
+
+## 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/angeloalegre)  
+- [GitHub](https://github.com/AngeloAlegre1202)  
+- angeloalegre1202@gmail.com
+
+---
+
+💡 *Always learning. Always building. Always curious.*
