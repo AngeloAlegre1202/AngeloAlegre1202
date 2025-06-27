@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm Angelo Alegre
 
-🎓  I earned my Bachelor of Science in Business Administration Major in Financial Management at La Consolacion University Philippines, And Graduated**Summa Cum laude**
+🎓 I earned my Bachelor of Science in Business Administration,  
+major in Financial Management,  
+from La Consolacion University Philippines —  
+graduating **summa cum laude** for academic excellence.
 
      
 
