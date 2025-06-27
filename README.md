@@ -7,12 +7,13 @@
 📊 I specialize in blending **finance** and **technology**.  
 Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**
 
-## 🚀 Projects I'm proud of
-- 🔎 **Bike Sales Excel Dashboard** – Cleaned and analyzed sales data using Excel formulas and pivot tables to build a print-ready dashboard for business insights.
-- 🌐 **Python Web Scraping** – Extracted and transformed financial data from Wikipedia using BeautifulSoup and Pandas.
-- 📊 **Power BI Survey Breakdown** – Visualized global data professionals’ trends and built interactive dashboards using Power Query and DAX.
-- 🏡 **Tableau Airbnb Listing Dashboard** – Analyzed pricing trends and created a user-friendly dashboard by zip code and bedroom count.
-- 💾 **SQL Data Cleaning Project** – Cleaned and formatted structured datasets using SQL to prepare data for visualization and analysis.
+## 🚀 Projects I've done! 
+- 📉 **3-Statement Financial Modeling (Guided Project)** – Built a dynamic financial model in Excel linking the three financial statements Forecasted financial performance under various assumptions.
+- 🔎 **Bike Sales Excel Dashboard (Guided Project)**  – Cleaned and analyzed sales data using Excel formulas and pivot tables to build a print-ready dashboard for business insights.
+- 🌐 **Python Web Scraping (Guided Project)** – Extracted and transformed financial data from Wikipedia using BeautifulSoup and Pandas.
+- 📊 **Power BI Survey Breakdown (Guided Project)** – Visualized global data professionals’ trends and built interactive dashboards using Power Query and DAX.
+- 🏡 **Tableau Airbnb Listing Dashboard (Guided Project)** – Analyzed pricing trends and created a user-friendly dashboard by zip code and bedroom count.
+- 💾 **SQL Data Cleaning Project (Guided Project)** – Cleaned and formatted structured datasets using SQL to prepare data for visualization and analysis.
 
 ## 🧠 What I'm Learning
 - Financal Modeling 
