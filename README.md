@@ -1,14 +1,9 @@
 ## 👋 Hi, I'm Angelo Alegre
 
-🎓 I earned my Bachelor of Science in Business Administration,  
-major in Financial Management,  
-from La Consolacion University Philippines —  
-graduating **summa cum laude** for academic excellence.
+🎓 I earned my BSBA,  Major in Financial Management degree, from La Consolacion University Philippines, and graduated **Summa Cum Laude**
 
-     
 
-📊 I specialize in blending **finance** and **technology**.  
-Using tools like **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**
+📊 I specialize in blending **finance** and **technology**.  Using tools like **SQL**, **Excel**, **Python**, **Power BI**, and **Tableau**
 
 ## 🚀 Projects I've done! 
 - 📉 **3-Statement Financial Modeling (Guided Project)** – Built a dynamic financial model in Excel linking the three financial statements Forecasted financial performance under various assumptions.
